@@ -1,9 +1,5 @@
 # Y-intercept Coding Test: composing stock index
 
-Name: Galym Torebayev
-
-Email: torebaevgalym@gmail.com
-
 A custom stock market index composer and etc. Solution Notebook located at notebooks/
 
 ## P.S. 
