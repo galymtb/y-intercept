@@ -6,6 +6,10 @@ Email: torebaevgalym@gmail.com
 
 A custom stock market index composer and etc. Solution Notebook located at notebooks/
 
+## P.S. 
+
+I'm more of dev guy, therefore I've added a some tech related paradigms like unit testing, logging and etc. I've tried my best in processing the assignment from the perspective of finance and math. Indeed it was a challenging task since by reading JD of Quantitative Developer (Platform Engineer), I didn't expect test to be this way. Anyways, I did my best
+
 ## Folder Structure
 
     .
@@ -62,7 +66,3 @@ To test the application run (wasn't configured):
 ```
 pytest tests
 ```
-
-## P.S. 
-
-I'm more of dev guy, therefore I've added a some tech related paradigms like unit testing, logging and etc. I've tried my best in processing the assignment from the perspective of finance and math. Indeed it was a challenging task since by reading JD of Quantitative Developer (Platform Engineer), I didn't expect test to be this way. Anyways, I did my best
