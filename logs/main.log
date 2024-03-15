@@ -1,0 +1,31 @@
+[2024-03-15 16:33:49] [INFO] Main starting
+[2024-03-15 16:33:49] [INFO] Loading Data
+[2024-03-15 16:33:49] [INFO] Merging Data
+[2024-03-15 16:33:49] [INFO] Grouping Data by date
+[2024-03-15 16:33:50] [INFO] Positive 5: date              
+2021-01-04  26406     2413 JT
+            229479    6758 JT
+            213489    6594 JT
+            285444    7741 JT
+            184707    6273 JT
+                       ...   
+2021-01-29  285462    7741 JT
+            219903    6702 JT
+            115968    4661 JT
+            229497    6758 JT
+            355818    8801 JT
+Name: ticker, Length: 95, dtype: object
+[2024-03-15 16:33:50] [INFO] Negative 5: date              
+2021-01-04  240672    6861 JT
+            418161    9983 JT
+            307830    8035 JT
+            419760    9984 JT
+            115950    4661 JT
+                       ...   
+2021-01-29  240690    6861 JT
+            184725    6273 JT
+            213507    6594 JT
+            307848    8035 JT
+            195918    6367 JT
+Name: ticker, Length: 95, dtype: object
+[2024-03-15 16:33:51] [INFO] Main finishing
